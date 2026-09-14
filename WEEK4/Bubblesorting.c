@@ -1,5 +1,10 @@
 #include <stdio.h>
-
+void display(int array[],int size)
+{
+    for(int i=0;i<size;i++)
+        printf("%d ",array[i]);
+        printf("\n");
+}
 void bubbleSort(int array[],int size)
 {
     for(int step=0;step<size-1;step++)
@@ -14,13 +19,8 @@ void bubbleSort(int array[],int size)
                 array[i+1]=temp;
             }
         }
+        display(array,size);
     }
-}
-
-void display(int array[],int size)
-{
-    for(int i=0;i<size;i++)
-        printf("%d ",array[i]);
 }
 
 int main()
