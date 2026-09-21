@@ -29,7 +29,7 @@ int main(){
         }
     }
     void deQueue(){
-        if(front == -1 || front > rear){
+        if(front == -1 ){
             printf("Queue is empty\n");
             return;
         }

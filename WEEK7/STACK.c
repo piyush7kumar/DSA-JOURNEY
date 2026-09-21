@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAX 19
+#define MAX 20
 int stack[MAX];
 int top = -1;
 int isfull(){
@@ -30,8 +30,8 @@ int pop(){
             printf("popped %d from stack\n", poppedvalue);
             return poppedvalue;
         }
-    }
-    int peak(){
+}
+int peak(){
         if(isempty()){
             printf("Stack is empty");
             return -1;
@@ -39,8 +39,8 @@ int pop(){
         else{
             return stack[top];
         }
-    }
-    void display(){
+}
+void display(){
         if(isempty()){
             printf("Stack is empty");
         }
@@ -51,9 +51,9 @@ int pop(){
             }
             printf("\n");
         }
-    }
-    int main(){
-        int choice,value;
+}
+int main(){
+    int choice,value;
         while(1){
             printf("1. Push\n");
             printf("2. Pop\n");
@@ -84,4 +84,4 @@ int pop(){
             }
         }
         return 0;
-    }
+}
