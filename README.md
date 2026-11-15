@@ -12,6 +12,7 @@ I am using this repository to practice DSA concepts, improve my problem-solving 
 - Functions
 - Searching
 - Sorting
+- Linked Lists
 
 ### Searching
 - Linear Search
@@ -24,18 +25,38 @@ I am using this repository to practice DSA concepts, improve my problem-solving 
 - Modified Selection Sort
 - Insertion Sort
 
+### Data Structures
+- Singly Linked List
+- Circular Linked List
+- Doubly Linked List
+
 ## Practice Programs
 
-- Array insertion
-- Array deletion
-- Array traversal
-- Accessing array elements using pointer
-- Linear search
-- Binary search
-- Bubble sort
-- Selection sort
-- Insertion sort
-- Pointer practice
+### Array Operations
+- Array Traversal
+- Array Insertion
+- Array Deletion
+- Accessing Array Elements Using Pointers
+
+### Searching Programs
+- Linear Search
+- Binary Search
+
+### Sorting Programs
+- Bubble Sort
+- Modified Bubble Sort
+- Selection Sort
+- Modified Selection Sort
+- Insertion Sort
+
+### Linked List Programs
+- Singly Linked List Operations
+- Circular Linked List Operations
+- Doubly Linked List Operations
+
+### Pointer Programs
+- Pointer Practice
+- Pointer-Based Array Access
 
 ## My Goal
 
@@ -43,7 +64,7 @@ I am using this repository to practice DSA concepts, improve my problem-solving 
 - Improve logical thinking
 - Practice coding regularly
 - Solve more problems
-- Build a strong foundation in DSA
+- Build a strong foundation in Data Structures and Algorithms
 
 ## Language
 
@@ -51,8 +72,20 @@ I am using this repository to practice DSA concepts, improve my problem-solving 
 
 ## Progress
 
-I will keep adding new topics and problems as I continue my DSA journey.
+✅ Arrays Completed
+
+✅ Searching Algorithms Completed
+
+✅ Sorting Algorithms Completed
+
+✅ Singly Linked List Implemented
+
+✅ Circular Linked List Implemented
+
+✅ Doubly Linked List Implemented
+
+🚀 More DSA topics coming soon...
 
 ---
 
-**Learning step by step. 💻**
+**Learning step by step and improving every day. 💻**
