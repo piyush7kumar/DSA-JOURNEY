@@ -17,6 +17,7 @@ int main(){
     deQueue();
     display();
 }
+
     void enQueue(int value){
         if(rear == MAX-1)
             printf("Queue is full\n");

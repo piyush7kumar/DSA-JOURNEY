@@ -15,6 +15,7 @@ int isempty(){
     }
     return 0;
 }
+
 void enqueue(int value){
     if(isfull()){
         printf("Queue Overflow\n");

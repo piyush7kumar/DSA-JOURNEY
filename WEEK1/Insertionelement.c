@@ -15,7 +15,6 @@ void insert(int arr[], int n, int pos, int value)
         printf("%d ", arr[i]);
     }
 }
-
 int main()
 {
     int arr[100], n, pos, value;
